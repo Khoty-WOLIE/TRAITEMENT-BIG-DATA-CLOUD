@@ -4,6 +4,10 @@ Réalisez un traitement dans un environnement Big Data sur le Cloud
 
 # Traitement Big Data dans le Cloud pour Fruits!
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DS_projet9.PNG)
+
 ## Contexte
 
 Je suis Data Scientist chez **"Fruits!"**, une start-up innovante dans le secteur de l'AgriTech, qui développe des solutions pour préserver la biodiversité des fruits à travers des robots cueilleurs intelligents. L’objectif est de construire une application mobile permettant de reconnaître les fruits à partir de photos, tout en posant les bases d’une infrastructure Big Data pour le traitement à grande échelle des images de fruits.
